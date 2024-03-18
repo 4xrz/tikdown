@@ -1,4 +1,4 @@
-import telebot, re , random
+import telebot
 from telebot import types
 from Rooz import *
 from keep_alive import keep_alive
