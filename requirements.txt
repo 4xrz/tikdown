@@ -6,3 +6,4 @@ kvsqlite
 yt-dlp
 user-agent
 requests
+threading
