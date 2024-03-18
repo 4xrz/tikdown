@@ -8,7 +8,7 @@ boss = types.InlineKeyboardMarkup(row_width=2)
 rkkuu = types.InlineKeyboardButton(text='SiRius ♪ ,',url='rKKuu.t.me')
 boss.add(rkkuu)
 
-bot = telebot.TeleBot('6292366475:AAExYlLlSsithJRfjRz2JG4iDKWTeDyoi6w')
+bot = telebot.TeleBot('6292366475:AAGcbFXzFswK9A43oQ3P5hiC2ZaTLzK13ao')
 
 @bot.message_handler(commands=['start'])
 def start(m):
