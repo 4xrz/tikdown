@@ -1,0 +1,7 @@
+flask
+pyTelegramBotAPI
+telebot
+Rooz
+kvsqlite
+yt-dlp
+user-agent
